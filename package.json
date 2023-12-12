@@ -1,0 +1,23 @@
+{
+  "name": "program12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ywf154/progam12.git"
+  },
+  "author": "Yi Wenfeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ywf154/progam12/issues"
+  },
+  "homepage": "https://github.com/ywf154/progam12#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+    
+  }
+}
